@@ -16,10 +16,10 @@ body {
   border-radius: 0 0 55px 55px;
   bottom: 7px;
   content: '';
-  left: 6px;
-  height: 25px;
+  left: 7px;
+  height: 30px;
   position: absolute;
-  width: 65px;
+  width: 70px;
 }
 .pokeball:after {
   content: '';
