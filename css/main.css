@@ -13,11 +13,11 @@ body {
 }
 .pokeball:before {
   background: #FFF;
-  border-radius: 0 0 100px 100px;
+  border-radius: 0 0 50px 50px;
   bottom: 8px;
   content: '';
   left: 8px;
-  height: 30px;
+  height: 40px;
   position: absolute;
   width: 73px;
 }
