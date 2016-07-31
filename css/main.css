@@ -17,9 +17,9 @@ body {
   bottom: 7px;
   content: '';
   left: 6px;
-  height: 35px;
+  height: 25px;
   position: absolute;
-  width: 70px;
+  width: 65px;
 }
 .pokeball:after {
   content: '';
