@@ -1,5 +1,7 @@
 body {
   background: lightblue;
+  width: 540px;
+  height: 960px;
 }
 
 .pokeball {
