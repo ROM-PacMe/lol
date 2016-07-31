@@ -9,7 +9,7 @@ body {
   height: 120px;
   width: 120px;
   box-shadow: inset 0 0 0 4px #FFF, inset 0 0 0 8px #BBB;
-  margin: 150% 42%;
+  margin: 150% 39%;
 }
 .pokeball:before {
   background: #FFF;
