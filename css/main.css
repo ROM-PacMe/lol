@@ -19,7 +19,7 @@ body {
   left: 6px;
   height: 49px;
   position: absolute;
-  width: 99px;
+  width: 89px;
 }
 .pokeball:after {
   content: '';
